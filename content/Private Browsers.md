@@ -10,6 +10,10 @@ Web browsers
 - Are able to capture any sensitive information that appears on the screen andsend it to third parties
 - May abuse device permissions like location, microphone and camera
 - Usually default to settings, tools, and search engines that do not respect privacy
-
 # Threat Response
 We want to use an open source browser that is not provided by Google or any company with a weak privacy track record. We will harden the browser by modifying the settings and our own behavior when using it, with the goal of complete privacy and anonymity.
+!TODO
+# Choice of Browser
+# Browser Settings
+# Extensions
+# Best Practices

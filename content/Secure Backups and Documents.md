@@ -1,5 +1,3 @@
-```table-of-contents
-```
 # Overview
 We want to backup all of our devices and documents in case they are lost, damaged, or corrupted. We should anticipate events of this type and try to reduce their affect on our lives, making them as painless to recover from as possible.
 # Threat model

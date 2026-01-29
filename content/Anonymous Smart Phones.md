@@ -1,6 +1,14 @@
+# Overview
+# Threat Model
+# Threat Response
 # Anonymous Purchasing
-
-# VoIP with VoIP.ms
+# Setup
+## GrapheneOS
+## Push Services
+## Phone Settings
+# Phone Service Provider
+# VoIP
+## VoIP.ms
 - VoIP allows you to never use your root phone number and maintain various alias phone numbers for different purposes. These can be turned on and off and have custom notification settings.
 - To sign up and avoid ID verification. Do not perform ID verification through Persona, they have a history of data/privacy violations
 	- Ensure you are away from your home on public wifi
@@ -80,8 +88,7 @@
 - Unfortunately I have not figured out how to title the numbers like you can in Sipnetic
 - You can set number-specific notifications in Settings -> Phone Numbers
 - You will want to disable "New messages" notifications from Sipnetic if you use this app
-
-## Voip.ms sms
+## VoIP Softphones
 - Download the Voip.ms SMS app from the Aurora Store
 - Open the app and input your account email address for Voip.ms and the API password. To generate an API password
 	- !TODO
@@ -102,6 +109,8 @@
 - These phone numbers are ephemeral. You can create and delete at will.
 - You can text and call on any number if you follow the above procedures
 - You can configure notifications for individual numbers separately
-
-
-109 214 155
+# Maintaining Anonymity
+# Secure Applications
+## Private Messaging
+## Maps
+## Notes

@@ -53,5 +53,5 @@ Each module discusses detailed threat models associated with a particular topic.
 - [[Data Removal]]
 - [[Secure Backups and Documents]]
 - [[Anonymous Utilities]]
-- [[Mail and home address]]
-- [[Identification and credentials]]
+- [[Mail and Home Address]]
+- [[Identification and Credentials]]
