@@ -1,0 +1,18 @@
+# Overview
+Degoogling is the process of removing Google products and services from all aspects of your life.
+# Threat Model
+A full discussion of the Google threat model is beyond the scope of this doc. I will summarize here.
+
+If a service is free, you are not the customer. Data brokers are the real customer, and your information is the product.
+
+Google pioneered "survellience capitalism" by staking claim to an previously untapped resource - all measurable human experience. In a new and lawless digital age, they created a suite of free or very cheap technologies that are designed for a single purpose, not to provide you with a useful service - that is secondary. Their primary motive is the mining of "behavioral surplus" from the lives of its users. This surplus is simply data about the users derived from their interactions with the services, and in its raw form it has little value. But in the early 2000s, Google discovered that this data could be fed to machine learning models to make extremely accurate predictions of human behavior, and later to tweak and reinforce behaviors to bend users to its will, and creating a new product called "guaranteed outcomes". These predictive models and outcomes are sold on a behavioral futures market to Google's actual customers, advertising companies. Google primarily seeks the optimal time and place to show you a particular ad.
+
+The methods of data collection and the data they collect should be considered a violation of the 1st ammendment right to reasonable privacy and are antidemocratic. Google creates (products) to siphon more and more categories of behavioral information. (Examples). These actions are intentionally obfuscated and hidden within intentionally long and dry privacy policies and terms of service meant to dissuade the reader from reading.
+
+With the prolification of this business model, a large portion of our economy is now based on survellience capitalism, and more and more companies follow Google and Meta's model, even non tech companies like (examples).
+
+Below are some examples of common Google services and the ways that behavioral surplus is mined from them.
+
+(Examples)
+
+# Threat Response
