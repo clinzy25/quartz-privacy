@@ -1,0 +1,6 @@
+# Mail and home address
+- Reiterating "Never allow association of your real name and real address"
+- When you order things to your home, use an alias name
+- If you need to receive mail in your true name, use a PO box that was opened **without associating your real address**
+- Don't use your real home address in the billing info for a credit card puchrase
+- If you are shipping to your true home address, ensure the credit card does not have your real name on it. Use a gift card bought with cash, or a masked card from privacy.com
