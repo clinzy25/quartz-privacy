@@ -32,6 +32,7 @@ Broad threat models
 - Behavior
 - Location
 - Biometrics
+- IoT
 ## Personal Security
 - Identity theft
 - Account hijacking
