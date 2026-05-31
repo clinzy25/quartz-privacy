@@ -4,20 +4,26 @@ title: Digital Self-Defense
 # Overview
 !TODO
 # General Paradigms
-- Provide as little personal information as possible. Apply [Principle of least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege) to your own life
-- Value anonymity and pursue it wherever it can be lawfully achieved, even at the cost of convenience
-- Protect root credentials with aliases unless it is absolutely necessary to provide real information (medical, government, etc)
-- Be wary of true name association with home address and root phone number
-- Never allow your ID to be scanned or uploaded to networks
-- Avoid products and services from big tech companies that practice Surveillance Capitalism
-- Avoid products and services that sell your information to third parties
-- Prefer open-source software
-- Read privacy policies or have AI summarize them for you
-- Know your rights in relation to data, privacy, and surveillance
-- Prefer managing your own data (as opposed to cloud services), prefer transferring by wire (as opposed to over network)
-- Assume devices will be lost or stolen and encrypt them
-- Assume important data will be lost and back it up
-- Manage sensitive credentials securely with a password manager
+This is a loose set of guiding principles that underpin the strategies in this guide.
+- Your data is your property.
+- Data is the most valuable resource on earth.
+- America does not have adequate privacy laws. Protecting your privacy is your responsibility.
+- Privacy rights are in decline globally.
+- General cultural sentiment for privacy standards is eroding.
+- Places with no privacy rights are, by nature, authoritarian.
+- Today, protecting your privacy is an act of resistance.
+- Provide as little personal information as possible. Apply [Principle of least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege) to your own life.
+- Value anonymity.
+- Use aliases when possible.
+- Do not associate your real name and address, or real name and phone number.
+- Never perform ID verification or allow your ID to be scanned.
+- Avoid highly centralized, closed source, big tech companies.
+- Prefer FOSS (free and open-source) apps and ecosystems that are externally audited and do not store or sell your data.
+- Read privacy policies.
+- Know your data and privacy rights.
+- Prefer managing your own data (as opposed to cloud services), prefer transferring by wire (as opposed to over network).
+- Encrypt and back up all of your devices.
+- Use a password manager.
 
 # Privacy vs Security vs Anonymity
 !Todo

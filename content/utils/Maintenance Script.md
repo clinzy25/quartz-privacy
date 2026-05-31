@@ -16,6 +16,7 @@ sudo apt update
 
 # 2. Upgrade all installed packages
 sudo apt upgrade -y
+flatpak update -y
 
 # 3. Perform a full system upgrade (handles kernel, dependencies, etc.)
 sudo apt full-upgrade -y
